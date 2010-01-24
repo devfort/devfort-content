@@ -1,0 +1,7 @@
+title     = Lazy registration is easy
+timestamp = 1248465600
+author    = James Aylett
+summary   = (
+    During the creation of the second <i>/dev/fort</i> project, I implemented
+    lazy registration in django.
+)

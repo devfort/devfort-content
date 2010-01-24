@@ -1,0 +1,52 @@
+    |   <div class='image small landscape'>
+    |     <a href='http://www.flickr.com/photos/cindyli/3066988754/'><img
+    |        src='http://farm4.static.flickr.com/3191/3066988754_1973d9472f_m.jpg'
+    |        width='240' height='160'><q>Our plane</q> uploaded by 
+    |      <cite>Cindy Li</cite></a>
+    |   </div>
+
+        Planned earlier that summer, in late November 2008 a dozen of us piled
+        into a bus with wings for the flight to Alderney. Fort Clonque is a
+        19th century fort now owned and maintained by The Landmark Trust, and
+        served as the perfect base of operations for our week.
+
+    |   <ul id='photo-list'>
+    |     <!--<li class='medium'><a
+    |         href='http://www.flickr.com/photos/cindyli/3067934158/'><img
+    |          src='http://farm4.static.flickr.com/3154/3067934158_202a3bf061_m.jpg'
+    |       width='240' height='160' alt='The living room'></a></li>-->
+    |     <li><a href='http://www.flickr.com/photos/cindyli/3073401478/'><img
+    |       src='http://farm4.static.flickr.com/3164/3073401478_77ac0f55f1_s.jpg'
+    |       width='75' height='75' alt='Group shot'></a></li>
+    |     <li><a href='http://www.flickr.com/photos/cindyli/3072504073/'><img
+    |       src='http://farm4.static.flickr.com/3067/3072504073_91859f1f24_s.jpg'
+    |       width='75' height='75' alt='Coding'></a></li>
+    |     <li><a href='http://www.flickr.com/photos/cindyli/3069499786/'><img
+    |       src='http://farm4.static.flickr.com/3065/3069499786_cd6e2eac48_s.jpg'
+    |       width='75' height='75' alt='Post its are everywhere'></a></li>
+    |     <li><a href='http://www.flickr.com/photos/cindyli/3073453444/'><img
+    |       src='http://farm4.static.flickr.com/3289/3073453444_14fc7f5fcd_s.jpg'
+    |       width='75' height='75' alt='The Alderney map'></a></li>
+    |     <li><a href='http://www.flickr.com/photos/cindyli/3072576185/'><img
+    |       src='http://farm4.static.flickr.com/3036/3072576185_8bc2f57a33_s.jpg'
+    |       width='75' height='75' alt='The Landmark Trust private!'></a></li>
+    |     <li><a href='http://www.flickr.com/photos/cindyli/3072548639/'><img
+    |       src='http://farm4.static.flickr.com/3183/3072548639_4a5465f382_s.jpg'
+    |       width='75' height='75' alt="Signing the visitor's book"></a></li>
+    |   </ul>
+
+    The site
+    
+        During our time there we built <Wildlife Near You>, coming up with and
+        refining the idea, designing all aspects of the site, and coding the
+        whole thing. As we could perhaps have predicted, it then took a
+        further three months to finish off the remaining few tasks (such as
+        putting an alpha sign-up page in front of it, integrating with Flickr
+        and so forth) that were impractical or forgotten while in Alderney.
+        
+        The site went into invitation alpha at the start of March 2009, and
+        finally launched in January 2010.
+
+
+
+<Wildlife Near You | http://www.wildlifenearyou.com/>

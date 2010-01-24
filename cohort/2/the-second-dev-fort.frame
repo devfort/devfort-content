@@ -1,0 +1,31 @@
+        The second |<i>/dev/fort</i>| was held in Knockbrex Castle, Scotland,
+        between May 30th and June 6th, 2009. 
+        
+    |   <div class='image small landscape'>
+    |     <a href='http://www.flickr.com/photos/jaylett/3641054315/'><img
+    |       src='http://farm4.static.flickr.com/3297/3641054315_3ac3ca60f1_m.jpg'
+    |     width='240' height='160'>
+    |     <q>Hard at work</q> uploaded by 
+    |     <cite>James Aylett</cite></a>
+    |   </div>
+
+        After many hours of travel, two missed trains, a couple of pints of 
+        beer and a lot of driving (the drinking and driving were separate
+        people, before anyone complains), everyone converged on the castle,
+        picked rooms by pointing and declaring "Yoink!" and then unpacked. 
+        
+    The site
+    
+        A few false starts and a lot of discussion later, we found inspiration
+        over dinner and (after digesting) went full-steam-ahead into the
+        planning of our new website.
+        
+        As with the |<a href='/cohort/1/'>first <em>/dev/fort</em></a>|, we
+        didn't finish it during the week and have a few remaining problems to
+        iron out (including a thorny issue inside <django> itself).
+        
+        We hope to achieve an invitation-only alpha phase within the next
+        couple of months.
+
+
+<django          | http://www.djangoproject.com/>
