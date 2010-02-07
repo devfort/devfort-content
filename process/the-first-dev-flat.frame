@@ -1,0 +1,58 @@
+        This weekend a group of |<i>/dev/fort</i>| alumni gathered at a secret
+        location in East London|<sup id='location-footnote1'><a
+        href='#footnote1'>1</a></sup>| for what we're calling
+        |<i>/dev/flat</i>|: a bit like a fort, but smaller in all dimensions.
+        So for two days we've been working on the projects started at
+        |<i>/dev/fort</i>|s 2 & 3, moving them forward towards the ultimate
+        aim of a full launch.
+
+        One of the reasons this is valuable is that, with the benefit of some
+        perspective, there are aspects of user flow, technical architecture or
+        choice of restrictions that don't really make sense once we've got
+        back to the wider world. This means that getting a group of people
+        together to work on something yields far better insights than
+        individuals hacking in their basements. It's also more social, which
+        is part of the point of |<i>/dev/fort</i>| in the first place.
+
+        This isn't the first time we've done this: a little over a year ago a
+        few people from the first fort (Simon Willison, Nat Downe, Niqui
+        Merret and James Aylett) got together a couple of times to hammer
+        through just these kind of issues. Simon & Nat then took the baton to
+        keep moving forward, closing issues, finishing or adding required
+        features and so forth, to take Wildlife Near You from limited alpha
+        out to its full public beta (and beyond, with new features now
+        appearing regularly).
+
+        This time round we had Hannah Donovan, Steve Marshall, Mark Norman
+        Francis and Matthew Hasler working on the |<i>/dev/fort</i>| 2
+        project, and George Brocklehurst, Richard Boulton and James Aylett
+        working on the |<i>/dev/fort</i>| 3 project. One thing we discovered
+        on both was a slight angle between the direction we'd been heading in
+        during work at the fort, and the direction that makes sense in the
+        cold light of day. So a lot of time was spent looking at the problem
+        afresh (Hannah spent a couple of hours using herself as a guinea pig
+        in an impromptu user testing lab she built in my kitchen), and then
+        starting to rebuild the pieces that don't make as much sense as we
+        want.
+
+        What's become obvious as we've run a number of |<i>/dev/fort</i>|s is
+        that a fort is a very good place to start projects: the isolation and
+        lack of distraction provides a high velocity, and you feel free to get
+        something done that makes sense at the time, without worrying so much
+        about real users. Thereafter, you need some work to turn that first
+        iteration into a releasable, usable website; you refine the concept,
+        tidy up the user flows, fix those glaring errors, and put it live
+        somewhere for more people to play with. None of this really comes as a
+        surprise; technical projects almost always have to go through an
+        "ideation" and experimentation phase, which can feeds into more
+        detailed work on design and product definition, often running
+        alongside technical work to either shore up work done in earlier
+        experiments, or to lay the groundwork for a more robust system used
+        from that point on.
+
+        Forts are for prototype; flats are for product.
+
+    |   <ul id='article-footnotes'>
+    |     <li id='footnote1'>James' flat 
+    |       <a href="#location-footnote1">&#8617;</a></li>
+    |   </ul>
