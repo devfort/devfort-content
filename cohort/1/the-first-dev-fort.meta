@@ -7,3 +7,47 @@ quote       = (
     19th century fort now owned and maintained by The Landmark Trust, and
     served as the perfect base of operations for our week.
 )
+
+flickr_photos[] = {
+    link   = /cindyli/3067934158/
+    size   = medium
+    title  = The living room
+    source = farm4.static.flickr.com/3154/3067934158_202a3bf061_m.jpg
+    taken  = Cindy Li
+}
+flickr_photos[] = {
+    link   = /cindyli/3073401478/
+    title  = Group shot
+    source = farm4.static.flickr.com/3164/3073401478_77ac0f55f1_s.jpg
+    taken  = Cindy Li
+}
+flickr_photos[] = {
+    link   = /cindyli/3072504073/
+    title  = Coding
+    source = farm4.static.flickr.com/3067/3072504073_91859f1f24_s.jpg
+    taken  = Cindy Li
+}
+flickr_photos[] = {
+    link   = /cindyli/3069499786/
+    title  = Post its are everywhere
+    source = farm4.static.flickr.com/3065/3069499786_cd6e2eac48_s.jpg
+    taken  = Cindy Li
+}
+flickr_photos[] = {
+    link   = /cindyli/3073453444/
+    title  = The Alderney map
+    source = farm4.static.flickr.com/3289/3073453444_14fc7f5fcd_s.jpg
+    taken  = Cindy Li
+}
+flickr_photos[] = {
+    link   = /cindyli/3072576185/
+    title  = The Landmark Trust private!
+    source = farm4.static.flickr.com/3036/3072576185_8bc2f57a33_s.jpg
+    taken  = Cindy Li
+}
+flickr_photos[] = {
+    link   = /cindyli/3072548639/
+    title  = Signing the visitor's book
+    source = farm4.static.flickr.com/3183/3072548639_4a5465f382_s.jpg
+    taken  = Cindy Li
+}

@@ -5,3 +5,40 @@ quote       = (
     The second <i>/dev/fort</i> was held in Knockbrex Castle, Scotland,
     between May 30th and June 6th, 2009. 
 )
+
+flickr_photos[] = {
+    link   = /jaylett/3640973887/
+    title  = Planning
+    source = farm3.static.flickr.com/2478/3640973887_c83ed47ca8_s.jpg
+    taken  = James Aylett
+}
+flickr_photos[] = {
+    link   = /jaylett/3641824444/
+    title  = Bread!
+    source = farm4.static.flickr.com/3392/3641824444_4e29b426c5_s.jpg
+    taken  = James Aylett
+}
+flickr_photos[] = {
+    link   = /envoy/3602752957/
+    title  = Knockbrex Castle
+    source = farm3.static.flickr.com/2475/3602752957_772706c28f_s.jpg
+    taken  = Envoy
+}
+flickr_photos[] = {
+    link   = /hannahdonovan/3666082696/
+    title  = (We ate the fruit)
+    source = farm4.static.flickr.com/3393/3666082696_4bcc371a46_s.jpg
+    taken  = Hannah Donovan
+}
+flickr_photos[] = {
+    link   = /hannahdonovan/3665280703/
+    title  = 1 Geek
+    source = farm3.static.flickr.com/2211/3665280703_6e649e7323_s.jpg
+    taken  = Hannah Donovan
+}
+flickr_photos[] = {
+    link   = /hannahdonovan/3665280117/
+    title  = Ice cream for Lunch
+    source = farm4.static.flickr.com/3546/3665280117_38141ae8f0_s.jpg
+    taken  = Hannah Donovan
+}

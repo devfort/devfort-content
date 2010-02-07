@@ -6,3 +6,76 @@ quote       = (
     If anything, this felt more remote and isolated than Fort Clonque
     did in the first <i>/dev/fort</i>.
 )
+
+flickr_photos[] = {
+    link   = /bfirsh/4154131334/
+    title  = Whiteboard
+    source = farm3.static.flickr.com/2547/4154131334_366bbd9bca_s.jpg
+    taken  = Ben Firshman
+}
+flickr_photos[] = {
+    link   = /bfirsh/4154404194/
+    title  = Norm
+    source = farm3.static.flickr.com/2499/4154404194_8f036c5342_s.jpg
+    taken  = Ben Firshman
+}
+flickr_photos[] = {
+    link   = /bfirsh/4154197190/
+    title  = Mince
+    source = farm3.static.flickr.com/2499/4154197190_5fc8661ccb_s.jpg
+    taken  = Ben Firshman
+}
+flickr_photos[] = {
+    link   = /bfirsh/4154172704/
+    title  = Norm's camera
+    source = farm3.static.flickr.com/2757/4154172704_9d493bec34_s.jpg
+    taken  = Ben Firshman
+}
+flickr_photos[] = {
+    link   = /bfirsh/4154133548/
+    title  = Citation needed
+    source = farm3.static.flickr.com/2767/4154133548_bc1352855c_s.jpg
+    taken  = Ben Firshman
+}
+flickr_photos[] = {
+    link   = /mn_francis/4116314422/
+    title  = Alex
+    source = farm3.static.flickr.com/2746/4116314422_9a37bd9ed0_s.jpg
+    taken  = Mark Norman Francis
+}
+flickr_photos[] = {
+    link   = /mn_francis/4116349052/
+    title  = Prioritising
+    source = farm3.static.flickr.com/2707/4116349052_abd771860b_s.jpg
+    taken  = Mark Norman Francis
+}
+flickr_photos[] = {
+    link   = /mn_francis/4116388470/
+    title  = Richard
+    source = farm3.static.flickr.com/2566/4116388470_4b3de72f5c_s.jpg
+    taken  = Mark Norman Francis
+}
+flickr_photos[] = {
+    link   = /n0seblunt/4110406486/
+    title  = Feature Mirror
+    source = farm3.static.flickr.com/2566/4110406486_61fd008431_s.jpg
+    taken  = Alex Lee
+}
+flickr_photos[] = {
+    link   = /n0seblunt/4110407430/
+    title  = Tools
+    source = farm3.static.flickr.com/2520/4110407430_c9d56d51bd_s.jpg
+    taken  = Alex Lee
+}
+flickr_photos[] = {
+    link   = /n0seblunt/4109678765/
+    title  = Saddell House
+    source = farm3.static.flickr.com/2514/4109678765_1e2813461b_s.jpg
+    taken  = Alex Lee
+}
+flickr_photos[] = {
+    link   = /n0seblunt/4109643785/
+    title  = Sharpies
+    source = farm3.static.flickr.com/2695/4109643785_6b1ac28ce1_s.jpg
+    taken  = Alex Lee
+}
