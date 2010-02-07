@@ -1,1 +1,1 @@
-Content repository for [http://devfort.com/].
+Content repository for (/dev/fort)[http://devfort.com/].
