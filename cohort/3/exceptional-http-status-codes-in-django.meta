@@ -1,0 +1,7 @@
+title     = Exceptional HTTP status codes in Django
+timestamp = 1265564348
+author    = James Aylett
+summary   = (
+    During the third <i>/dev/fort</i> project we needed an easy way of styling
+    arbitrary exceptional HTTP status codes.
+)

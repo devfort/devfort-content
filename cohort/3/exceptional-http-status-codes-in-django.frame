@@ -1,0 +1,17 @@
+    From <explain it in some detail>:
+    >   Django has support for emitting a response with any HTTP status code.
+    >   However some of these are exceptional conditions, so the natural
+    >   Pythonic way of generating them would be by throwing a suitable
+    >   exception.
+        
+        This required some Django plumbing, which <Richard Boulton> put
+        together and I turned into a Django app on github. I <explain it
+        in some detail>.
+
+
+
+<Richard Boulton | http://tartarus.org/richard/ >
+<explain it in some detail |
+    http://tartarus.org/james/diary/2010/02/07/
+    exceptional-http-status-codes-in-django
+>
