@@ -1,0 +1,16 @@
+        Regular cohort member Simon Willison has published the <redis
+        tutorial> he gave at <NoSQL Europe> back in April, taking you through
+        the basic operations and building up to descriptions of how to put
+        them together in a number of real-world examples, including the
+        <crowd-sourced best photo feature> of WildlifeNearYou.com.
+
+        (But don't pay attention to his self-labelled "crazy idea" about
+        queue-activated shell scripts; as cohort member <Richard Boulton
+        points out>, this is better done using <userv>.)
+
+
+<redis tutorial | http://simonwillison.net/static/2010/redis-tutorial/ >
+<NoSQL Europe | http://nosqleu.com >
+<crowd-sourced best photo feature | http://www.wildlifenearyou.com/best/ >
+<Richard Boulton points out | http://twitter.com/rboulton/status/12894739202 >
+<userv | http://www.chiark.greenend.org.uk/~ian/userv/ >
